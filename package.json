@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server --progress --color --inline --hot" ,
-    "build": "webpack"
+    "dev": "webpack-dev-server --progress --colors --inline --hot"
   },
   "keywords": [],
   "author": "",

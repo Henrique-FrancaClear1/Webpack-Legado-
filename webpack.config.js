@@ -4,7 +4,7 @@ module.exports = {
     //onde a aplicção sera inicializada (ponto de entrada)
     entry: './ex/index.js',
     output: {
-        path: __dirname + './public',
+        path: __dirname + '/public',
         filename: './bundle.js'
     },
     devServer: {
